@@ -6,7 +6,7 @@ const apiOptions = {
 };
 
 if (process.env.NODE_ENV === 'production') {
-  apiOptions.server = 'https://yourapi.com';
+  apiOptions.server = 'https://loc8r-api-hreg.onrender.com';
 }
 
 
